@@ -29,7 +29,7 @@ let Obje =[{
      title:"EXTERIOR CAR WASH:",
      content:"Great quality soft cloth tunnel wash with spotless rinse at an affordable price.",
      prescription:"VEHICLE STATE INSPECTION:",
-     offer:"State Inspection,Safety Checks,No Appointments Needed,Done in 15 mins or less",
+     offer:"State Inspection,Safety Checks,No- Appointments Needed,Done in 15 mins or less",
  }]
 
 function App ( ) {
