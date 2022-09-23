@@ -1,0 +1,40 @@
+*,
+* ::after, 
+* ::before {
+ margin : 0 ;
+ box-sizing : border - box ;
+}
+html {
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
+li{
+   list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.nav{
+display: flex;
+align-items: center;
+justify-content: space-around;
+height: 12vh;
+background: rgb(4, 28, 73);
+
+}
+.nav_brand{
+    font-weight: bold;
+    font-style: italic;
+     
+}
+.nav_menu{
+display: flex;
+align-items: center;
+justify-content: space-around;
+gap:3rem;
+
+}
+

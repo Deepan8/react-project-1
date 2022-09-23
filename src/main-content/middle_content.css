@@ -1,0 +1,69 @@
+body{
+    background-color:whitesmoke;
+}
+.header-txt{
+    
+    font-weight: 500;
+    font-size: 40px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   color: rgb(4 28 73);
+}
+
+.green-txt{
+    font-family: 'Poppins-Regular';
+    color: green;
+    font-weight: 400;
+    font-size: 16px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.image{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 2%;
+  
+}
+.image img{
+    width: 80%;
+
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    color: green;
+   
+    font-size: 20px;
+    
+}
+.tittle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+   
+    font-size: 20px;
+    font-weight: 700;
+}
+.three{
+    padding: 1%;
+}
+.name {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   padding: 2%;
+   
+
+}
+.head{
+    color: rgb(4 28 73);
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
